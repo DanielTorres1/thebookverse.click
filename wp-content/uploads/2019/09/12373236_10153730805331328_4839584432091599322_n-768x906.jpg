@@ -1,0 +1,512 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Books and Bao</title>
+    <script>
+      window.XF = { site: {}, content: {} }
+    </script>
+    <script type="module" crossorigin src="/xf-assets/index-b2-TrTt5SeS.js"></script>
+    <link rel="stylesheet" crossorigin href="/xf-assets/index-b2-DrfsOaON.css">
+  <meta property="og:title" content="Books and Bao"><meta property="og:type" content="website"><meta property="og:url" content="https://xenforge-bb-public.pages.dev/wp-content/uploads/2019/09/12373236_10153730805331328_4839584432091599322_n-768x906.jpg"><meta property="og:site_name" content="Books and Bao"><meta property="og:image" content="https://booksandbao.com/r2/media/2026-06/logo-ebd5dae4fbce433c8ea53bd9614a17d3.png"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:title" content="Books and Bao"><meta name="twitter:image" content="https://booksandbao.com/r2/media/2026-06/logo-ebd5dae4fbce433c8ea53bd9614a17d3.png"><link rel="canonical" href="https://xenforge-bb-public.pages.dev/wp-content/uploads/2019/09/12373236_10153730805331328_4839584432091599322_n-768x906.jpg">
+<style id="xf-theme-boot">:root{--xf-primary:#111111;--xf-accent:#e0245e;--xf-bg:#ffffff;--xf-text:#111111;--xf-font-family:"Mulish", system-ui, sans-serif;--xf-font-heading:"Fraunces", Georgia, serif;--xf-heading-weight:700;--xf-heading-tracking:0;--xf-radius:12px}body{font-family:"Mulish", system-ui, sans-serif}</style><link id="xf-preset-font" rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&amp;family=Mulish:wght@400;600;700&amp;display=swap">
+<link rel="icon" href="https://booksandbao.com/r2/media/2026-06/favicon-bcbbd82e111a4bf991cb64b6922c414d.ico">
+<script>window.XF={"site":{"code":"bb","features":{"quizzes":true,"leads":true},"crossDomainGroups":[],"name":"Books and Bao","logo":{"custom":false,"src":"https://booksandbao.com/r2/media/2026-06/logo-ebd5dae4fbce433c8ea53bd9614a17d3.png","link":"/"},"theme":{"preset":"human-interest","primary":"#111111","background":"#ffffff","text":"#111111"},"favicon":"https://booksandbao.com/r2/media/2026-06/favicon-bcbbd82e111a4bf991cb64b6922c414d.ico","whatsappChannelUrl":"https://whatsapp.com/channel/0029VazhvQe6GcGEsSOitg1N","youtubeChannelId":"UC6ghMFTemVdgTJGeRrI6uzA","horoscope":{"fontScaleMobile":1.05},"social":{"facebookUrl":"https://www.facebook.com/profile.php?id=61591932779056","youtubeUrl":"https://www.youtube.com/@storiesbooksandbao","pinterestUrl":"https://uk.pinterest.com/BooksandBao/","whatsappUrl":"https://whatsapp.com/channel/0029VazhvQe6GcGEsSOitg1N","enabled":true},"newsletter":{"resendAudienceId":"1c9bb9a5-d0ab-4fa6-8ab5-ce5f9f0e94f7","subscribeAudienceId":"c3385e18-077e-4100-a828-d8720ff47851","astrologyAudienceId":"32f0c1d4-da62-46e6-9bdd-b54f90f462ce"},"emailWall":{"slides":10,"seconds":120,"percent":100,"resendAudienceId":"7f0ce454-ade1-4aa6-ad98-ad64c20a5371"}},"nav":{"categories":["Betrayal","Career","Dark Secrets","Deception","Family","Family Betrayal","Financial Schemes","Identity Lies","Infidelity","Inheritance","Mystery","Relationships","Trending"],"newsCategories":["Celebrity","Royals","TV","Film","Music","Politics"],"pages":[{"slug":"about","title":"About Us"},{"slug":"contact","title":"Contact"},{"slug":"privacy-policy","title":"Privacy Policy"}]}}</script>
+<!-- xf-snippet code_mq990yt9q2zt (inmobi) -->
+<!-- InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.3) -->
+<script type="text/javascript" async=true>
+(function() {
+var host = window.location.hostname;
+var element = document.createElement('script');
+var firstScript = document.getElementsByTagName('script')[0];
+var url = 'https://cmp.inmobi.com'
+.concat('/choice/', 'KCKZrm3nZDDfQ', '/', host, '/choice.js?tag_version=V3');
+var uspTries = 0;
+var uspTriesLimit = 3;
+element.async = true;
+element.type = 'text/javascript';
+element.src = url;
+
+firstScript.parentNode.insertBefore(element, firstScript);
+
+function makeStub() {
+var TCF_LOCATOR_NAME = '__tcfapiLocator';
+var queue = [];
+var win = window;
+var cmpFrame;
+
+function addFrame() {
+var doc = win.document;
+var otherCMP = !!(win.frames[TCF_LOCATOR_NAME]);
+
+if (!otherCMP) {
+if (doc.body) {
+var iframe = doc.createElement('iframe');
+
+iframe.style.cssText = 'display:none';
+iframe.name = TCF_LOCATOR_NAME;
+doc.body.appendChild(iframe);
+} else {
+setTimeout(addFrame, 5);
+}
+}
+return !otherCMP;
+}
+
+function tcfAPIHandler() {
+var gdprApplies;
+var args = arguments;
+
+if (!args.length) {
+return queue;
+} else if (args[0] === 'setGdprApplies') {
+if (
+args.length > 3 &&
+args[2] === 2 &&
+typeof args[3] === 'boolean'
+) {
+gdprApplies = args[3];
+if (typeof args[2] === 'function') {
+args[2]('set', true);
+}
+}
+} else if (args[0] === 'ping') {
+var retr = {
+gdprApplies: gdprApplies,
+cmpLoaded: false,
+cmpStatus: 'stub'
+};
+
+if (typeof args[2] === 'function') {
+args[2](retr);
+}
+} else {
+if(args[0] === 'init' && typeof args[3] === 'object') {
+args[3] = Object.assign(args[3], { tag_version: 'V3' });
+}
+queue.push(args);
+}
+}
+
+function postMessageEventHandler(event) {
+var msgIsString = typeof event.data === 'string';
+var json = {};
+
+try {
+if (msgIsString) {
+json = JSON.parse(event.data);
+} else {
+json = event.data;
+}
+} catch (ignore) {}
+
+var payload = json.__tcfapiCall;
+
+if (payload) {
+window.__tcfapi(
+payload.command,
+payload.version,
+function(retValue, success) {
+var returnMsg = {
+  __tcfapiReturn: {
+    returnValue: retValue,
+    success: success,
+    callId: payload.callId
+  }
+};
+if (msgIsString) {
+  returnMsg = JSON.stringify(returnMsg);
+}
+if (event && event.source && event.source.postMessage) {
+  event.source.postMessage(returnMsg, '*');
+}
+},
+payload.parameter
+);
+}
+}
+
+while (win) {
+try {
+if (win.frames[TCF_LOCATOR_NAME]) {
+cmpFrame = win;
+break;
+}
+} catch (ignore) {}
+
+if (win === window.top) {
+break;
+}
+win = win.parent;
+}
+if (!cmpFrame) {
+addFrame();
+win.__tcfapi = tcfAPIHandler;
+win.addEventListener('message', postMessageEventHandler, false);
+}
+};
+
+makeStub();
+
+function makeGppStub() {
+const CMP_ID = 10;
+const SUPPORTED_APIS = [
+'2:tcfeuv2',
+'6:uspv1',
+'7:usnatv1',
+'8:usca',
+'9:usvav1',
+'10:uscov1',
+'11:usutv1',
+'12:usctv1'
+];
+
+window.__gpp_addFrame = function (n) {
+if (!window.frames[n]) {
+if (document.body) {
+var i = document.createElement("iframe");
+i.style.cssText = "display:none";
+i.name = n;
+document.body.appendChild(i);
+} else {
+window.setTimeout(window.__gpp_addFrame, 10, n);
+}
+}
+};
+window.__gpp_stub = function () {
+var b = arguments;
+__gpp.queue = __gpp.queue || [];
+__gpp.events = __gpp.events || [];
+
+if (!b.length || (b.length == 1 && b[0] == "queue")) {
+return __gpp.queue;
+}
+
+if (b.length == 1 && b[0] == "events") {
+return __gpp.events;
+}
+
+var cmd = b[0];
+var clb = b.length > 1 ? b[1] : null;
+var par = b.length > 2 ? b[2] : null;
+if (cmd === "ping") {
+clb(
+{
+gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+cmpStatus: "stub", // possible values: stub, loading, loaded, error
+cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+signalStatus: "not ready", // possible values: not ready, ready
+supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+cmpId: CMP_ID, // IAB assigned CMP ID, may be 0 during stub/loading
+sectionList: [],
+applicableSections: [-1],
+gppString: "",
+parsedSections: {},
+},
+true
+);
+} else if (cmd === "addEventListener") {
+if (!("lastId" in __gpp)) {
+__gpp.lastId = 0;
+}
+__gpp.lastId++;
+var lnr = __gpp.lastId;
+__gpp.events.push({
+id: lnr,
+callback: clb,
+parameter: par,
+});
+clb(
+{
+eventName: "listenerRegistered",
+listenerId: lnr, // Registered ID of the listener
+data: true, // positive signal
+pingData: {
+  gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+  cmpStatus: "stub", // possible values: stub, loading, loaded, error
+  cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+  signalStatus: "not ready", // possible values: not ready, ready
+  supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+  cmpId: CMP_ID, // list of supported APIs
+  sectionList: [],
+  applicableSections: [-1],
+  gppString: "",
+  parsedSections: {},
+},
+},
+true
+);
+} else if (cmd === "removeEventListener") {
+var success = false;
+for (var i = 0; i < __gpp.events.length; i++) {
+if (__gpp.events[i].id == par) {
+__gpp.events.splice(i, 1);
+success = true;
+break;
+}
+}
+clb(
+{
+eventName: "listenerRemoved",
+listenerId: par, // Registered ID of the listener
+data: success, // status info
+pingData: {
+  gppVersion: "1.1", // must be “Version.Subversion”, current: “1.1”
+  cmpStatus: "stub", // possible values: stub, loading, loaded, error
+  cmpDisplayStatus: "hidden", // possible values: hidden, visible, disabled
+  signalStatus: "not ready", // possible values: not ready, ready
+  supportedAPIs: SUPPORTED_APIS, // list of supported APIs
+  cmpId: CMP_ID, // CMP ID
+  sectionList: [],
+  applicableSections: [-1],
+  gppString: "",
+  parsedSections: {},
+},
+},
+true
+);
+} else if (cmd === "hasSection") {
+clb(false, true);
+} else if (cmd === "getSection" || cmd === "getField") {
+clb(null, true);
+}
+//queue all other commands
+else {
+__gpp.queue.push([].slice.apply(b));
+}
+};
+window.__gpp_msghandler = function (event) {
+var msgIsString = typeof event.data === "string";
+try {
+var json = msgIsString ? JSON.parse(event.data) : event.data;
+} catch (e) {
+var json = null;
+}
+if (typeof json === "object" && json !== null && "__gppCall" in json) {
+var i = json.__gppCall;
+window.__gpp(
+i.command,
+function (retValue, success) {
+var returnMsg = {
+  __gppReturn: {
+    returnValue: retValue,
+    success: success,
+    callId: i.callId,
+  },
+};
+event.source.postMessage(msgIsString ? JSON.stringify(returnMsg) : returnMsg, "*");
+},
+"parameter" in i ? i.parameter : null,
+"version" in i ? i.version : "1.1"
+);
+}
+};
+if (!("__gpp" in window) || typeof window.__gpp !== "function") {
+window.__gpp = window.__gpp_stub;
+window.addEventListener("message", window.__gpp_msghandler, false);
+window.__gpp_addFrame("__gppLocator");
+}
+};
+
+makeGppStub();
+
+var uspStubFunction = function() {
+var arg = arguments;
+if (typeof window.__uspapi !== uspStubFunction) {
+setTimeout(function() {
+if (typeof window.__uspapi !== 'undefined') {
+window.__uspapi.apply(window.__uspapi, arg);
+}
+}, 500);
+}
+};
+
+var checkIfUspIsReady = function() {
+uspTries++;
+if (window.__uspapi === uspStubFunction && uspTries < uspTriesLimit) {
+console.warn('USP is not accessible');
+} else {
+clearInterval(uspInterval);
+}
+};
+
+if (typeof window.__uspapi === 'undefined') {
+window.__uspapi = uspStubFunction;
+var uspInterval = setInterval(checkIfUspIsReady, 6000);
+}
+})();
+</script>
+<!-- End InMobi Choice. Consent Manager Tag v3.0 (for TCF 2.2) -->
+<!-- /xf-snippet code_mq990yt9q2zt -->
+<!-- xf-snippet code_mq9b03b6xu91 (AY) -->
+<script src="https://33a8AxgdihZnqgFfD.ay.delivery/manager/33a8AxgdihZnqgFfD" type="text/javascript" referrerpolicy="no-referrer-when-downgrade"></script>
+<!-- /xf-snippet code_mq9b03b6xu91 -->
+<!-- xf-snippet code_mq9bls127crn (Meta Pixel) -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '2444039772641110');
+
+(function(){
+  function eid(){return 'xf-'+Date.now().toString(36)+'-'+Math.random().toString(36).slice(2,10);}
+  function ck(n){var m=document.cookie.match('(?:^|;\\s*)'+n+'=([^;]+)');return m?m[1]:null;}
+  function mirror(name,id,value,currency){
+    try{
+      var p=JSON.stringify({eventName:name,eventId:id,url:location.href,
+        value:value,currency:currency,fbp:ck('_fbp'),fbc:ck('_fbc')});
+      if(navigator.sendBeacon){navigator.sendBeacon('/xf-model/capi/call',p);}
+      else{fetch('/xf-model/capi/call',{method:'POST',body:p,keepalive:true});}
+    }catch(e){}
+  }
+  window.xfMeta=function(name,data){
+    var id=eid();
+    if(name==='PageView'){fbq('track','PageView',{},{eventID:id});}
+    else{fbq('trackCustom',name,data||{},{eventID:id});}
+    mirror(name,id,data&&data.value,data&&data.currency);
+  };
+
+  xfMeta('PageView');
+
+  // AYRPS<N> once per session when AY's predicted session revenue CPM
+  // crosses N*10 (same thresholds as the legacy snippet).
+  var fired={};
+  window.addEventListener('assertive_predictedRevenue',function(e){
+    try{
+      var session=e&&e.data&&e.data.predictedRevenueCPM&&e.data.predictedRevenueCPM.session;
+      if(typeof session!=='number')return;
+      for(var n=1;n<=30;n++){
+        if(session>=n*10&&!fired[n]){
+          fired[n]=1;
+          xfMeta('AYRPS'+n,{value:n*0.01,currency:'GBP'});
+        }
+      }
+    }catch(err){}
+  },false);
+})();
+</script>
+<!-- /xf-snippet code_mq9bls127crn -->
+<!-- xf-snippet code_mqm51uhgyg88 (Retention) -->
+<script type="text/javascript">
+setTimeout(function() {
+  !function(){
+    var geq=window.geq=window.geq||[];
+    if(geq.initialize) return;
+    if (geq.invoked){if (window.console && console.error) {console.error("GE snippet included twice.");}return;}
+    geq.invoked = true;
+    geq.methods = ["page", "suppress", "track", "doNotTrack", "trackOrder", "identify", "addToCart", "callBack", "event"];
+    geq.factory = function(method){return function(){var args = Array.prototype.slice.call(arguments);args.unshift(method);geq.push(args);return geq;};};
+    for (var i = 0; i < geq.methods.length; i++) {var key = geq.methods[i];geq[key] = geq.factory(key);}
+    geq.load = function(key){var script = document.createElement("script");script.type = "text/javascript";script.async = true; if (location.href.includes("vge=true")) {script.src = "https://s3-us-west-2.amazonaws.com/jsstore/a/" + key + "/ge.js?v=" + Math.random();} else {script.src = "https://s3-us-west-2.amazonaws.com/jsstore/a/" + key + "/ge.js";} var first = document.getElementsByTagName("script")[0];first.parentNode.insertBefore(script, first);};
+    geq.SNIPPET_VERSION = "1.6.1";
+    geq.load("V3VHN0JN");
+  }();
+  geq.page();
+}, 4 * 60 * 1000); // 4 minutes = 240,000ms
+</script>
+<!-- /xf-snippet code_mqm51uhgyg88 -->
+<!-- xf-snippet code_mqp7vxmvs3tj (GA) -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-2DW4K2GNKK"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-2DW4K2GNKK');
+</script>
+<!-- /xf-snippet code_mqp7vxmvs3tj -->
+<!-- xf-snippet code_mr0ijz84n4c4 (Snap Pixel) -->
+<!-- Snap Pixel Code -->
+<script type='text/javascript'>
+(function(e,t,n){if(e.snaptr)return;var a=e.snaptr=function()
+{a.handleRequest?a.handleRequest.apply(a,arguments):a.queue.push(arguments)};
+a.queue=[];var s='script';r=t.createElement(s);r.async=!0;
+r.src=n;var u=t.getElementsByTagName(s)[0];
+u.parentNode.insertBefore(r,u);})(window,document,
+'https://sc-static.net/scevent.min.js');
+snaptr('init', 'd203b47b-4119-4733-8807-e884a68aa6a2');
+snaptr('track', 'PAGE_VIEW');
+</script>
+<!-- End Snap Pixel Code -->
+<!-- /xf-snippet code_mr0ijz84n4c4 -->
+<!-- xf-snippet code_mr0ikjpdptu9 (Snap RPS events) -->
+<script>
+  (function () {
+    // Snapchat only supports CUSTOM_EVENT_1..5 (no arbitrary names like FB's AYRPS<N>),
+    // so the AY revenue milestones are mapped to 5 Snapchat slots.
+    // Fire once per session when AY predicted session revenue crosses each tier.
+    var fired = {};
+    var tiers = [
+      { n: 5,  ev: 'CUSTOM_EVENT_1' }, // session >= 50  = 5p
+      { n: 8,  ev: 'CUSTOM_EVENT_2' }, // session >= 80  = 8p
+      { n: 10, ev: 'CUSTOM_EVENT_3' }, // session >= 100 = 10p
+      { n: 12, ev: 'CUSTOM_EVENT_4' }, // session >= 120 = 12p
+      { n: 15, ev: 'CUSTOM_EVENT_5' }  // session >= 150 = 15p
+    ];
+    window.addEventListener('assertive_predictedRevenue', function (e) {
+      var session = e && e.data && e.data.predictedRevenueCPM && e.data.predictedRevenueCPM.session;
+      if (typeof session !== 'number') return;
+      if (typeof snaptr !== 'function') return; // Snap base code must be installed
+      for (var i = 0; i < tiers.length; i++) {
+        var t = tiers[i];
+        if (session >= t.n * 10 && !fired[t.ev]) {
+          fired[t.ev] = true;
+          snaptr('track', t.ev);
+        }
+      }
+    }, false);
+  })();
+</script>
+<!-- /xf-snippet code_mr0ikjpdptu9 -->
+<!-- xf-snippet code_mr929lyj7k61 (g tag) -->
+<!-- Google tag (gtag.js) for Google Ads audience collection -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-7640402537"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'AW-7640402537');
+  gtag('config', 'AW-17582068868'); // conversion account for High Value Session
+
+  // Fire once per session after 60 seconds
+  setTimeout(function () {
+    try {
+      if (!sessionStorage.getItem('google_ads_60_sec_audience_fired')) {
+        gtag('event', 'time_on_site_60_seconds', { 'send_to': 'AW-7640402537' });
+        sessionStorage.setItem('google_ads_60_sec_audience_fired', 'true');
+      }
+    } catch (e) {}
+  }, 60000);
+</script>
+<!-- /xf-snippet code_mr929lyj7k61 -->
+<!-- xf-snippet code_mr92abho633i (g rps5) -->
+<!-- High Value Session conversion — fires once per session when AY session revenue hits 5p -->
+<script>
+  (function () {
+    var KEY = 'google_ads_high_value_session_fired';
+    window.addEventListener('assertive_predictedRevenue', function (e) {
+      var session = e && e.data && e.data.predictedRevenueCPM && e.data.predictedRevenueCPM.session;
+      if (typeof session !== 'number' || session < 50) return; // 50 = 5p (same n*10 scale as AYRPS)
+      try {
+        if (sessionStorage.getItem(KEY)) return;
+        sessionStorage.setItem(KEY, '1');
+      } catch (err) {}
+      if (typeof gtag !== 'function') return;
+      gtag('event', 'conversion', {
+        'send_to': 'AW-17582068868/mY8zCLDSu8scEISp5L9B',
+        'value': 0.05,
+        'currency': 'GBP',
+        'transaction_id': ''
+      });
+    });
+  })();
+</script>
+<!-- /xf-snippet code_mr92abho633i --></head>
+  <body>
+    <div id="app"></div>
+  </body>
+</html>
