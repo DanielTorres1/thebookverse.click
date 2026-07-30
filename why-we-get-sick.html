@@ -25,12 +25,14 @@
    <meta property="og:description"
       content="The Hidden Epidemic at the Root of Most Chronic Disease—and How to Fight It. Read book overview, summary, and key takeaways.">
    <meta property="og:site_name" content="The Book Verse">
+   <meta property="og:image" content="https://thebookverse.click/why-we-get-sick-cover.png">
 
    <!-- Twitter Card -->
    <meta name="twitter:card" content="summary_large_image">
    <meta name="twitter:title" content="Why We Get Sick by Benjamin Bikman, PhD">
    <meta name="twitter:description"
       content="Understand insulin resistance and restore your metabolic health with Dr. Benjamin Bikman's essential guide.">
+   <meta name="twitter:image" content="https://thebookverse.click/why-we-get-sick-cover.png">
 
    <!-- Google Fonts -->
    <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -222,31 +224,31 @@
          z-index: 10;
       }
 
-      /* Book Mockup Visual */
+      /* Book Cover Image */
       .book-cover-wrap {
          display: flex;
          justify-content: center;
       }
 
-      .book-card {
-         width: 270px;
-         height: 410px;
-         background: linear-gradient(145deg, #1e3a8a, #0f172a);
+      .book-cover-container {
+         width: 280px;
+         border-radius: 14px;
+         overflow: hidden;
+         box-shadow: 0 20px 40px -10px rgba(0, 0, 0, 0.6), 0 0 20px rgba(16, 185, 129, 0.2);
          border: 2px solid rgba(255, 255, 255, 0.15);
-         border-radius: 12px;
-         box-shadow: 0 25px 50px -12px rgba(0, 0, 0, 0.5), inset 4px 0 8px rgba(255, 255, 255, 0.2);
-         padding: 2rem 1.5rem;
-         display: flex;
-         flex-direction: column;
-         justify-content: space-between;
-         text-align: center;
-         position: relative;
          transition: transform 0.3s ease, box-shadow 0.3s ease;
       }
 
-      .book-card:hover {
-         transform: translateY(-8px) rotate(-1deg);
-         box-shadow: 0 30px 60px -15px rgba(16, 185, 129, 0.3);
+      .book-cover-container:hover {
+         transform: translateY(-8px) scale(1.02);
+         box-shadow: 0 30px 60px -12px rgba(16, 185, 129, 0.35);
+      }
+
+      .book-cover-img {
+         width: 100%;
+         height: auto;
+         display: block;
+         object-fit: cover;
       }
 
       .book-card-badge {
@@ -706,15 +708,8 @@
    <section class="hero">
       <div class="hero-container">
          <div class="book-cover-wrap">
-            <div class="book-card">
-               <div class="book-card-badge">Bestseller</div>
-               <div>
-                  <div class="book-card-title">WHY WE GET SICK</div>
-                  <div class="book-card-subtitle">The Hidden Epidemic at the Root of Most Chronic Disease</div>
-               </div>
-               <div>
-                  <div class="book-card-author">Benjamin Bikman, PhD</div>
-               </div>
+            <div class="book-cover-container">
+               <img src="why-we-get-sick-cover.png" alt="Why We Get Sick Book Cover by Benjamin Bikman, PhD" class="book-cover-img">
             </div>
          </div>
 
